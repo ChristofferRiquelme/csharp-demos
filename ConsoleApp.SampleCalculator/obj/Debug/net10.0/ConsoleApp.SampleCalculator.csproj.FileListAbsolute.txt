@@ -1,0 +1,14 @@
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/bin/Debug/net10.0/ConsoleApp.SampleCalculator
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/bin/Debug/net10.0/ConsoleApp.SampleCalculator.deps.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/bin/Debug/net10.0/ConsoleApp.SampleCalculator.runtimeconfig.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/bin/Debug/net10.0/ConsoleApp.SampleCalculator.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/bin/Debug/net10.0/ConsoleApp.SampleCalculator.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.AssemblyInfoInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.AssemblyInfo.cs
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.csproj.CoreCompileInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/refint/ConsoleApp.SampleCalculator.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ConsoleApp.SampleCalculator.genruntimeconfig.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.SampleCalculator/obj/Debug/net10.0/ref/ConsoleApp.SampleCalculator.dll

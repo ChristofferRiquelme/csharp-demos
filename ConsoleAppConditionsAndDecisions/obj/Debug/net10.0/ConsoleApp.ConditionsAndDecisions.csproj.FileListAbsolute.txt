@@ -1,0 +1,14 @@
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/bin/Debug/net10.0/ConsoleApp.ConditionsAndDecisions
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/bin/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.deps.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/bin/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.runtimeconfig.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/bin/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/bin/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.AssemblyInfoInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.AssemblyInfo.cs
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.csproj.CoreCompileInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/refint/ConsoleApp.ConditionsAndDecisions.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ConsoleApp.ConditionsAndDecisions.genruntimeconfig.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleAppConditionsAndDecisions/obj/Debug/net10.0/ref/ConsoleApp.ConditionsAndDecisions.dll
