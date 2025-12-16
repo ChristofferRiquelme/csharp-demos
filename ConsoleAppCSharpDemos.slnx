@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleApp.Loops/ConsoleApp.Loops.csproj" />
   <Project Path="ConsoleApp.SampleCalculator/ConsoleApp.SampleCalculator.csproj" />
   <Project Path="ConsoleAppConditionsAndDecisions/ConsoleApp.ConditionsAndDecisions.csproj" />
 </Solution>

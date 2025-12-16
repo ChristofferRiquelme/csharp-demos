@@ -1,0 +1,15 @@
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/bin/Debug/net10.0/ConsoleApp.Loops
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/bin/Debug/net10.0/ConsoleApp.Loops.deps.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/bin/Debug/net10.0/ConsoleApp.Loops.runtimeconfig.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/bin/Debug/net10.0/ConsoleApp.Loops.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/bin/Debug/net10.0/ConsoleApp.Loops.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.AssemblyInfoInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.AssemblyInfo.cs
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.csproj.CoreCompileInputs.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.sourcelink.json
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/refint/ConsoleApp.Loops.dll
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.pdb
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ConsoleApp.Loops.genruntimeconfig.cache
+/Users/christoffer/Sites/csharp/ConsoleAppCSharpDemos/ConsoleApp.Loops/obj/Debug/net10.0/ref/ConsoleApp.Loops.dll
